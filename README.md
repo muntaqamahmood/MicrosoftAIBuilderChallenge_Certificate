@@ -1,0 +1,2 @@
+# MicrosoftAIBuilderChallenge_Certificate
+Microsoft AI Builder Challenge Certificate
